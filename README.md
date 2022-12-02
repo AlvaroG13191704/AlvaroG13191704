@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Any kind of projects**
 
-- 👨‍💻 All of my projects are available at [coming soon...](coming soon...)
+- 👨‍💻 All of my projects are available at [Administrador de notas Escuela Oficial Urbana Mixta VC](https://github.com/AlvaroG13191704/ADMINISTRADOR-TAREAS-ESCUELA)
 
 - 📫 How to reach me **ga1318garcia@gmail.com**
 
