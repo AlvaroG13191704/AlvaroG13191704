@@ -1,3 +1,5 @@
+# Portfolio
+[Link to my portfolio](https://portfolio-alvaro.vercel.app/)
 # ABOUT ME
 I am a proactive, organized, and responsible individual with strong interpersonal skills. I am highly committed to performing my tasks efficiently. I have a deep passion for programming, research, and software development. My focus is on becoming a highly skilled FullStack developer. 💻🚀
 
@@ -11,5 +13,4 @@ I am a proactive, organized, and responsible individual with strong interpersona
 - Intermediate Google Cloud Platform (GPC) ☁️
 - Intermediate MySQL, Postgres, MongoDB 🛢️
 
-## Portfolio
-[Link to my portfolio](URL_of_your_portfolio)
+
